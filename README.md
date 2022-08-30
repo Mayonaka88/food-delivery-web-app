@@ -9,7 +9,7 @@
 
 > The food item list can be added to or deleted from or cleared entirely.
 
-> The bill is presented to show to show the prices of the food items and the total amount owed.
+> The bill is presented to show the prices of the food items and the total amount owed.
 
 > Run FoodApp.sln to start.
 
