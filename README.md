@@ -13,4 +13,3 @@
 
 > Run FoodApp.sln to start.
 
-> Enjoy :)
